@@ -1,0 +1,9 @@
+numpy
+scikit-learn
+matplotlib
+tensorflow
+autokeras
+ipykernel
+pyyaml
+pycocotools
+opencv-python
